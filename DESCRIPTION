@@ -1,10 +1,41 @@
-Package: nhejazi.github.io
-Version: 0.0.1
-Title: Placeholder for code website
-Description: Placeholder for code website. See README.md for more details.
+Package: nimaverse
+Version: 1.0.0
+Title: Nima's code corner
 Authors@R: person("Nima", "Hejazi", email = "nh@nimahejazi.org",
-                  role = c("aut", "cre", "cph"))
+                  role = c("aut", "cre", "cph"),
+                  comment = c(ORCID = "0000-0002-7127-2789")
+                 )
+Maintainer: Nima Hejazi <nh@nimahejazi.org>
+Description: A minimal website listing my various software projects. The primary
+    purpose of this website is to link to the documentation and supporting
+    materials of software projects in which I have been involved. Most of these
+    projects have self-contained sites (built via R's `pkgdown`) hosted under
+    this site. Links to the individual software websites are provided via the
+    documentation of functions in this R package. As an R package, this site
+    also allows all of the R packages that I've authored/co-authored to be
+    conveniently installed simply, as a side effect of installing this package.
+Depends: R (>= 3.0.0)
+Imports:
+    sl3,
+    origami,
+    hal9001,
+    nima,
+    biotmle,
+    methyvim,
+    txshift,
+    survtmle
+Remotes:
+    github::tlverse/sl3,
+    github::tlverse/origami,
+    github::jeremyrcoyle/hal9001,
+    github::nhejazi/nima,
+    github::nhejazi/biotmle,
+    github::nhejazi/methyvim,
+    github::nhejazi/txshift,
+    github::benkeser/survtmle
 License: CC BY-NC-SA 4.0
+URL: https://github.com/nhejazi/nhejazi.github.io
+BugReports: https://github.com/nhejazi/nhejazi.github.io/issues
 Encoding: UTF-8
 LazyData: true
-ByteCompile: true
+RoxygenNote: 6.0.1.9000

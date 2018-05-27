@@ -1,5 +1,8 @@
 .PHONY : all
-all: site clean
+all: docs site clean
+
+docs:
+	Rscript -e "devtools::document()"
 
 site:
 	Rscript -e "rmarkdown::render('README.Rmd', output_file = 'README.md')"
