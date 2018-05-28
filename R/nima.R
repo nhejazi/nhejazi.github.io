@@ -1,6 +1,11 @@
-#' `nima` R package
+#' nima R package: Nima Hejazi's R Toolbox
 #'
-#' Nima Hejazi's R Toolbox
+#' Miscellaneous R functions developed over the course of statistical research
+#' and scientific computing. These include, for example, utilities that
+#' supplement existing idiosyncrasies of the R language, extend existing
+#' plotting functionality and aesthetics, provide alternative presentations of
+#' matrix decompositions, and extend access to command line tools and
+#' systems-level information.
 #'
 #' @references
 #' \describe{

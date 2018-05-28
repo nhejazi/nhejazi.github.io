@@ -2,12 +2,17 @@
 % Please edit documentation in R/nima.R
 \name{nima}
 \alias{nima}
-\title{`nima` R package}
+\title{nima R package: Nima Hejazi's R Toolbox}
 \usage{
 nima()
 }
 \description{
-Nima Hejazi's R Toolbox
+Miscellaneous R functions developed over the course of statistical research
+and scientific computing. These include, for example, utilities that
+supplement existing idiosyncrasies of the R language, extend existing
+plotting functionality and aesthetics, provide alternative presentations of
+matrix decompositions, and extend access to command line tools and
+systems-level information.
 }
 \references{
 \describe{

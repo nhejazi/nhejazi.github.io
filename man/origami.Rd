@@ -2,12 +2,14 @@
 % Please edit documentation in R/origami.R
 \name{origami}
 \alias{origami}
-\title{`origami` R package}
+\title{origami R package: Generalized Framework for Cross-Validation}
 \usage{
 origami()
 }
 \description{
-Generalized Framework for Cross-Validation
+Provides a general framework for the application of cross-validation schemes
+to particular functions. By allowing arbitrary lists of results, origami
+accommodates a range of cross-validation applications.
 }
 \references{
 \describe{

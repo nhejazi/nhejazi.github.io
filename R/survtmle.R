@@ -1,7 +1,9 @@
-#' `survtmle` R package
+#' survtmle R package: Compute Targeted Minimum Loss-Based Estimates in Right-Censored Survival Settings
 #'
-#' Compute Targeted Minimum Loss-Based Estimates in Right-Censored Survival
-#' Settings
+#' Targeted estimates of marginal cumulative incidence in survival settings with
+#' and without competing risks, including estimators that respect bounds
+#' (Benkeser, Carone, and Gilbert. Statistics in Medicine, 2017.
+#' <doi:10.1002/sim.7337>).
 #'
 #' @references
 #' \describe{

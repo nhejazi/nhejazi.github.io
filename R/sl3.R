@@ -1,6 +1,7 @@
-#' `sl3` R package
+#' sl3 R package: Pipelines for Machine Learning and Super Learning
 #'
-#' Pipelines for Machine Learning and Super Learning
+#' Modern implementation of the Super Learner prediction algorithm, alongside a
+#' framework for general-purpose machine learning with pipelines.
 #'
 #' @references
 #' \describe{

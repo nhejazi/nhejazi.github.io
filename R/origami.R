@@ -1,6 +1,8 @@
-#' `origami` R package
+#' origami R package: Generalized Framework for Cross-Validation
 #'
-#' Generalized Framework for Cross-Validation
+#' Provides a general framework for the application of cross-validation schemes
+#' to particular functions. By allowing arbitrary lists of results, origami
+#' accommodates a range of cross-validation applications.
 #'
 #' @references
 #' \describe{

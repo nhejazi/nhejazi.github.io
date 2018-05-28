@@ -2,12 +2,13 @@
 % Please edit documentation in R/sl3.R
 \name{sl3}
 \alias{sl3}
-\title{`sl3` R package}
+\title{sl3 R package: Pipelines for Machine Learning and Super Learning}
 \usage{
 sl3()
 }
 \description{
-Pipelines for Machine Learning and Super Learning
+Modern implementation of the Super Learner prediction algorithm, alongside a
+framework for general-purpose machine learning with pipelines.
 }
 \references{
 \describe{
