@@ -1,4 +1,4 @@
-Package: nimaverse
+Package: code.nima
 Version: 1.0.0
 Title: Nima's code corner
 Authors@R: person("Nima", "Hejazi", email = "nh@nimahejazi.org",

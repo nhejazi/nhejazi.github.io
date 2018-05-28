@@ -2,7 +2,7 @@
 % Please edit documentation in R/biotmle.R
 \name{biotmle}
 \alias{biotmle}
-\title{biotmle}
+\title{`biotmle` R package}
 \usage{
 biotmle()
 }

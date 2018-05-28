@@ -1,4 +1,4 @@
-#' biotmle
+#' `biotmle` R package
 #'
 #' Moderated and Targeted Statistical Learning for Biomarker Discovery
 #'
