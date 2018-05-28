@@ -1,7 +1,13 @@
-.PHONY : all
-all: docs site clean
+.PHONY : web
+web: doc site clean
 
-docs:
+build:
+	Rscript -e "devtools::build()"
+
+check:
+	Rscript -e "devtools::check()"
+
+doc:
 	Rscript -e "devtools::document()"
 
 site:

@@ -1,12 +1,12 @@
 #' biotmle
 #'
-#' Package title
+#' Moderated and Targeted Statistical Learning for Biomarker Discovery
 #'
 #' @references
 #' \describe{
-#'   \item{Documentation:}{https://code.nimahejazi.org/biotmle}
-#'   \item{GitHub repository:}{https://github.com/nhejazi/biotmle}
-#'   \item{Bioconductor:}{https://bioconductor.org/packages/biotmle}
+#'   \item{Bioconductor:}{\url{https://bioconductor.org/packages/biotmle}}
+#'   \item{Documentation:}{\url{https://code.nimahejazi.org/biotmle}}
+#'   \item{GitHub repository:}{\url{https://github.com/nhejazi/biotmle}}
 #' }
 #'
 #' @export
