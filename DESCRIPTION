@@ -19,12 +19,12 @@ Imports:
     nima,
     biotmle,
     methyvim,
-    txshift,
+    txshift
 Remotes:
     github::nhejazi/nima,
     github::nhejazi/biotmle,
     github::nhejazi/methyvim,
-    github::nhejazi/txshift,
+    github::nhejazi/txshift
 License: CC BY-NC-SA 4.0
 URL: https://code.nimahejazi.org
 Encoding: UTF-8
