@@ -9,6 +9,7 @@
 ^\.travis\.yml$
 ^appveyor\.yml$
 ^codecov\.yml$
+^_pkgdown\.yml$
 
 # website-related materials in top-level directory
 ^.*\.html$

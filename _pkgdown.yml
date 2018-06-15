@@ -1,0 +1,6 @@
+title: nimaverse
+url: https://code.nimahejazi.org
+template:
+  params:
+    bootswatch: readable
+

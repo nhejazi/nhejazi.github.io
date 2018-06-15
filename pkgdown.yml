@@ -1,5 +1,8 @@
 pandoc: 2.2.1
-pkgdown: 1.0.0
+pkgdown: 1.1.0
 pkgdown_sha: ~
 articles: []
+urls:
+  reference: https://code.nimahejazi.org/reference
+  article: https://code.nimahejazi.org/articles
 
