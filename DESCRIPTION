@@ -1,4 +1,4 @@
-Package: nimaverse
+Package: nimalib
 Version: 1.0.0
 Title: Code by Nima Hejazi
 Authors@R: person("Nima", "Hejazi", email = "nh@nimahejazi.org",
@@ -6,27 +6,30 @@ Authors@R: person("Nima", "Hejazi", email = "nh@nimahejazi.org",
                   comment = c(ORCID = "0000-0002-7127-2789")
                  )
 Maintainer: Nima Hejazi <nh@nimahejazi.org>
-Description: A minimal website listing my various software projects. The primary
-    purpose of this website is to link to the documentation and supporting
-    materials of software projects in which I have been involved. Most of these
-    projects have self-contained sites (built via R's `pkgdown`) hosted under
-    this site. Links to the individual software websites are provided via the
-    documentation of functions in this R package. As an R package, this site
-    also allows all of the R packages that I've authored/co-authored to be
-    conveniently installed simply, as a side effect of installing this package.
+Description: A minimal website listing my various software packages (mostly R).
+    The primary purpose is to link the documentation and supporting materials of
+    my code in a single place. Links to the individual software packages are
+    provided via the documentation of functions in this R package. As an R
+    package, this site also allows all of the R packages that I've
+    authored/co-authored to be conveniently installed simply, as a side effect
+    of installing this R package.
 Depends: R (>= 3.0.0)
 Imports:
     nima,
     biotmle,
     methyvim,
-    txshift
+    txshift,
+    medshift,
+    haldensify
 Remotes:
     github::nhejazi/nima,
     github::nhejazi/biotmle,
     github::nhejazi/methyvim,
     github::nhejazi/txshift
+    github::nhejazi/medshift,
+    github::nhejazi/haldensify
 License: CC BY-NC-SA 4.0
 URL: https://code.nimahejazi.org
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1.9000
+RoxygenNote: 6.1.1

@@ -1,4 +1,4 @@
-#' methyvim R package: Targeted Variable Importance for Differential Methylation Analysis
+#' methyvim R package: Targeted, robust, and model-free differential methylation analysis
 #'
 #' This package provides facilities for differential methylation analysis based
 #' on variable importance measures (VIMs), a class of statistical target

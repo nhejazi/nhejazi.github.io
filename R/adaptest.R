@@ -1,0 +1,22 @@
+#' adaptest R package: Data-adaptive statistics for high-dimensional multiple testing
+#'
+#' Data-adaptive test statistics represent a general methodology for
+#' performing multiple hypothesis testing on effects sizes while maintaining
+#' honest statistical inference when operating in high-dimensional settings.
+#' The utilities provided here extend the use of this general methodology to
+#' many common data analytic challenges that arise in modern computational and
+#' genomic biology.
+#'
+#' @references
+#' \describe{
+#'   \item{Bioconductor:}{\url{https://bioconductor.org/packages/adaptest}}
+#'   \item{Documentation:}{\url{https://wilsoncai1992.github.io/adaptest/}}
+#'   \item{GitHub repository:}{\url{https://wilsoncai1992.github.io/adaptest/}}
+#' }
+#'
+#' @export
+#
+adaptest <- function() {
+   print("See https://wilsoncai1992.github.io/adaptest/")
+}
+

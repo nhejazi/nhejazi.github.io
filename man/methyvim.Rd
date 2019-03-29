@@ -2,7 +2,7 @@
 % Please edit documentation in R/methyvim.R
 \name{methyvim}
 \alias{methyvim}
-\title{methyvim R package: Targeted Variable Importance for Differential Methylation Analysis}
+\title{methyvim R package: Targeted, robust, and model-free differential methylation analysis}
 \usage{
 methyvim()
 }
