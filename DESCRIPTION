@@ -20,14 +20,26 @@ Imports:
     methyvim,
     txshift,
     medshift,
-    haldensify
+    haldensify,
+    origami,
+    hal9001,
+    sl3,
+    tmle3shift,
+    adaptest,
+    survtmle
 Remotes:
     github::nhejazi/nima,
     github::nhejazi/biotmle,
     github::nhejazi/methyvim,
     github::nhejazi/txshift
     github::nhejazi/medshift,
-    github::nhejazi/haldensify
+    github::nhejazi/haldensify,
+    github::tlverse/origami,
+    github::tlverse/hal9001,
+    github::tlverse/sl3,
+    github::tlverse/tmle3shift,
+    github::wilsoncai1992/adaptest,
+    github::benkeser/survtmle
 License: CC BY-NC-SA 4.0
 URL: https://code.nimahejazi.org
 Encoding: UTF-8

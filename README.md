@@ -3,27 +3,23 @@
 
 # Nima’s code
 
-> support materials and documentation for my software and miscellaneous
-> code
-
 This page contains no unique or useful information. If you’re here,
 you’re probably looking instead for support materials of software I’ve
-written — usually hosted at <http://code.nimahejazi.org/PKG>, where
+written – usually hosted at <http://code.nimahejazi.org/PKG>, where
 “PKG” should be replaced with the name of a specific software
 package of interest.
 
 Since you’ve wound up here, you might also be interested in
 
-  - My personal / professional website: <https://nimahejazi.org>
-  - My academic website: <https://statistics.berkeley.edu/~nhejazi>
-  - My statistics / data science blog: <https://blog.nimahejazi.org>
+  - My professional site: <https://nimahejazi.org>
+  - My statistics blog: <https://blog.nimahejazi.org>
 
 ## Installation
 
-Similar in spirit to the [`tidyverse` R package](), `code.nima`, the R
-package found here, can be used to conveniently install all of the R
-packages I’ve (co-)authored as a side effect of installing this (mostly
-empty) package from GitHub using
+In similar fashion to the [`tidyverse` R
+package](https://www.tidyverse.org/), the `nimalib` R package can be
+used to conveniently install all of the R packages I’ve (co-)authored as
+a side effect of installing this package from GitHub using
 [`devtools`](https://www.rstudio.com/products/rpackages/devtools/):
 
 ``` r
